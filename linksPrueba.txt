@@ -1,6 +1,7 @@
 Estos son los enlaces para acceder al file para ver como son las plantillas.
 -----------------------------------------------------------------------------------
-Plantilla 1: file:///"tu carpeta personal"/Enrutador-de-salida-Tor/Plantilla.html
-Plantilla 2: file:///"tu carpeta personal"/Enrutador-de-salida-Tor/Plantilla2.html
+Plantilla 1: file:///"tu carpeta personal"/Plantillas-HTML/Plantilla.html
+Plantilla 2: file:///"tu carpeta personal"/Plantillas-HTML/Plantilla2.html
+405: file:///"tu carpeta personal"/Plantillas-HTML/405.html
 -----------------------------------------------------------------------------------
-Gracias por probar estas dos plantillas. Espero que alguna de estas dos se combiertan e tu web para tu nodo de salida de Tor :)
+Gracias por probar estas tres plantillas. Espero que alguna de estas dos se combiertan e tu web para administar tu sistema. :)
